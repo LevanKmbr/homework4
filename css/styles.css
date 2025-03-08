@@ -1,3 +1,32 @@
 header {
   border: 2px solid green;
+  padding: 25px 45px;
+}
+nav {
+  margin-left: 444px;
+  margin-right: 199px;
+}
+
+nav,
+.nav-list,
+.list-item,
+.buttons-section {
+  display: inline;
+}
+
+.list-item {
+  margin-left: 56px;
+}
+.list-item a {
+  color: #14203e;
+}
+
+.loginbtn {
+  border: none;
+  background-color: #f6f0e8;
+  padding: 13px 30px;
+  border-radius: 10px;
+}
+trailbtn {
+  margin-left: 15px;
 }
