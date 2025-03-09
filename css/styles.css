@@ -34,4 +34,26 @@ main {
   width: 100%;
   height: 604px;
   border: 2px solid red;
+  color: #14203e;
+  text-align: center;
+}
+
+  .main-content{
+    border: 2px solid blue;
+    width: 600px;
+    margin: 0px auto;
+
+  }
+}
+h1 {
+  font-size: 66px;
+}
+.main-para {
+  font-size: 22px;
+}
+.trailbtn-main {
+  padding: 25px 40px;
+  background-color: #14203e;
+  color: #ffffff;
+  border-radius: 10px;
 }
