@@ -30,3 +30,8 @@ nav,
 trailbtn {
   margin-left: 15px;
 }
+main {
+  width: 100%;
+  height: 604px;
+  border: 2px solid red;
+}
