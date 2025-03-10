@@ -1,3 +1,7 @@
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,100..700;1,100..700&display=swap");
+body {
+  font-family: "IBM Plex Sans", sans-serif;
+}
 header {
   border: 2px solid green;
   padding: 25px 45px;
@@ -33,18 +37,20 @@ trailbtn {
 main {
   width: 100%;
   height: 604px;
-  border: 2px solid red;
   color: #14203e;
   text-align: center;
+  background-color: #fffcf8;
 }
 
 .main-content {
+  padding-top: 129px;
   width: 600px;
-  margin: 129px auto 0px auto;
+  margin: 0px auto;
 }
 
 h1 {
   font-size: 66px;
+  font-weight: 700;
 }
 .main-para {
   font-size: 22px;
@@ -55,4 +61,16 @@ h1 {
   background-color: #14203e;
   color: #ffffff;
   border-radius: 10px;
+}
+.cards-section {
+  width: 125px;
+  margin: 78px auto;
+}
+.card {
+  display: inline-block;
+  width: 291px;
+  margin-left: 26px;
+}
+.card:first-child {
+  margin-left: 0px;
 }
