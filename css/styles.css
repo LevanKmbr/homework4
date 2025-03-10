@@ -38,18 +38,17 @@ main {
   text-align: center;
 }
 
-  .main-content{
-    border: 2px solid blue;
-    width: 600px;
-    margin: 0px auto;
-
-  }
+.main-content {
+  width: 600px;
+  margin: 129px auto 0px auto;
 }
+
 h1 {
   font-size: 66px;
 }
 .main-para {
   font-size: 22px;
+  margin: 30px 0px 41px 0px;
 }
 .trailbtn-main {
   padding: 25px 40px;
